@@ -24,4 +24,4 @@ def pow(x: int, y: int) -> int:
 
 
 a, b = input_num("input A: "), input_num("input B: ")
-print(f'A to the power of B is {pow(a, b)}')
+print(f'A({a}) to the power of B({b}) is {pow(a, b)}')
